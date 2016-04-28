@@ -1,0 +1,7 @@
+
+
+struct Vector{
+
+  int sz;       // size of the vector
+  double * int; // pointer to the first element 
+};

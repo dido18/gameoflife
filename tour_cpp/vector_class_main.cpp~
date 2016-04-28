@@ -1,0 +1,7 @@
+#incude <vector_main.cpp>
+
+int main(int argc, char *argv[]){
+  Vector v(4); //new vector of 4 elements;
+  
+
+}
